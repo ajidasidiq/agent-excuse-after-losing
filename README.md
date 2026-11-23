@@ -1,8 +1,8 @@
 # The Excuse an Agent Gives After It Loses
 
-[![make.fun](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d.svg)](https://make.fun/c/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
-[![rank](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/ajidasidiq/agent-excuse-after-losing/rank.svg)](https://make.fun/c/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
-[![reward](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/ajidasidiq/agent-excuse-after-losing/reward.svg)](https://make.fun/c/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
+[![make.fun · u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
+[![rank](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/ajidasidiq/agent-excuse-after-losing/rank.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
+[![reward](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/ajidasidiq/agent-excuse-after-losing/reward.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
 
 A make.fun bounty entry for **The Excuse an Agent Gives After It Loses**.
 
